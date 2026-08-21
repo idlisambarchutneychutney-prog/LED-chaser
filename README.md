@@ -14,7 +14,7 @@ To achieve a glowing halo effect:
 * When powered, the chasing sequence will smoothly frame the statue from behind.
 
 # Bill of Materials (BOM)
-
+https://docs.google.com/spreadsheets/d/1dknvj6RsMCPzlCs72U_A4Biw2XVm9xkfnfsrWRNoysQ/edit?usp=sharing
 
 ## Manufacturing
 To manufacture this board, download `gerber.zip` from the root directory and upload it to a fab house like JLCPCB. The board is designed with standard 2-layer specifications and fits within a 100x100mm footprint.
