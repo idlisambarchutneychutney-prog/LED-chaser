@@ -1,1 +1,3 @@
+I spent about 4-5 hours in KiCad designing the board and routing the traces. I used Hack Club’s Blinky starter project for some initial guidance and hints, but the physical layout is entirely custom.
 
+The goal of this board is to act as a backlight for a 3D print of Lord Shiva that I made. After taking the statue's dimensions (roughly 100mm x 100mm), I constrained the PCB size so it would remain completely hidden behind the print. I placed the LED footprints in a reverse "U" pattern and plan to mount the LEDs on the back of the PCB. When the circuit is powered, the lights will chase around the perimeter, creating a moving glow around the statue.
