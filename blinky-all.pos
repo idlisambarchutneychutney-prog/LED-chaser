@@ -1,0 +1,25 @@
+### Footprint positions - created on 2026-08-21T18:24:47 ###
+### Printed by KiCad version 10.0.5
+## Unit = mm, Angle = deg.
+## Side : All
+# Ref     Val                Package                                                PosX       PosY       Rot  Side
+D1        LED                LED_D3.0mm                                         194.7700   -98.5000  180.0000  bottom
+D2        LED                LED_D3.0mm                                         194.5400  -116.0000  180.0000  bottom
+D3        LED                LED_D3.0mm                                         190.5400   -81.0000  180.0000  bottom
+D4        LED                LED_D3.0mm                                         164.7700   -52.0000  180.0000  bottom
+D5        LED                LED_D3.0mm                                         108.7300   -79.5000    0.0000  bottom
+D6        LED                LED_D3.0mm                                         103.9600  -116.0000    0.0000  bottom
+D7        LED                LED_D3.0mm                                         134.5000   -52.0000    0.0000  bottom
+D8        LED                LED_D3.0mm                                         183.7700   -63.0000  180.0000  bottom
+D9        LED                LED_D3.0mm                                         115.9600   -63.0000    0.0000  bottom
+D10       LED                LED_D3.0mm                                         104.9600   -98.5000    0.0000  bottom
+C1        0.01uF             C_Disc_D7.5mm_W2.5mm_P5.00mm                       115.5000  -113.0000  -90.0000  top
+C2        1uF                CP_Radial_D5.0mm_P2.00mm                           121.5000  -111.0000    0.0000  top
+J1        Conn_01x02_Socket  PinHeader_1x02_P2.54mm_Vertical                    170.5000  -114.5000    0.0000  top
+J2        Conn_01x01_Socket  PinHeader_1x01_P2.54mm_Vertical                    158.5000  -115.5000   90.0000  top
+R1        1k                 R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal   148.3800   -72.0000    0.0000  top
+R2        470                R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal   148.3800   -67.0500    0.0000  top
+R3        Potentiometer      Potentiometer_Vishay_T93YA_Vertical                140.9200  -112.5000    0.0000  top
+U1        4017               N16                                                149.0000   -86.8800  180.0000  top
+U2        NE555P             DIP-8_W7.62mm                                      129.0000  -112.1900    0.0000  top
+## End
